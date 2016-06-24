@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">手势检测测试</string>
+    <string name="hello">请在屏幕上随意画出各种手势</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
